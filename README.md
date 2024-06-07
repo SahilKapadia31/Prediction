@@ -7,7 +7,7 @@
 To install the package, use npm:
 
 ```bash
-npm install predict
+npm install preDiction
 
 ```
 ## Usage

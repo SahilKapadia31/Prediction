@@ -1,5 +1,5 @@
 {
-  "name": "predict",
+  "name": "preDiction",
   "version": "1.0.0",
   "description": "It's about creating your own npm package",
   "main": "dist/index.js",
