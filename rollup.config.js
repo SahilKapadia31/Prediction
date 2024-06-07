@@ -6,7 +6,7 @@ export default defineConfig({
     output: {
         dir: "dist",
         format: "es",
-        name: "prediction-filter",
+        name: "predict",
     },
     external: ["react", "react-dom", "axios"],
     plugins: [typescript({ tsconfig: "tsconfig.json" })],
