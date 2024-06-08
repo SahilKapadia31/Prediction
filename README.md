@@ -25,7 +25,7 @@ function SearchComponent() {
         const userInput = event.target.value;
         setQuery(userInput);
         
-        if (userInput.length > 2) { // Fetch suggestions only for input length > 2
+        if (userInput.length > 2) {
             const results = await Prediction.getSuggestions(userInput);
             setSuggestions(results);
         } else {
@@ -104,7 +104,7 @@ If you have any feedback, please reach out to us at sahilkapadia89@.com
 I'm a full stack developer...
 
 
-# Hi, I'm Sahil! 👋
+# Hi, I'm Sahil Kapadia! 👋
 
 
 ## 🔗 Links
@@ -114,5 +114,5 @@ I'm a full stack developer...
 
 
 ## 🛠 Skills
-HTML, CSS, Javascript, typescript, reactJs, angularJs, nodeJs...
+HTML, CSS, Javascript, Typescript, ReactJs, AngularJs, NodeJs...
 
