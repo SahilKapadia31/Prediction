@@ -97,7 +97,7 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 ## Feedback
 
-If you have any feedback, please reach out to us at sahilkapadia89@.com
+If you have any feedback, please reach out to us at sahilkapadia89@gmail.com
 
 
 ## 🚀 About Me
